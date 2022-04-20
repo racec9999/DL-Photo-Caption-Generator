@@ -13,3 +13,6 @@ Deep Learning Photo Caption Generator Tensorflow 2.0
 * man in red shirt is standing on mountaintop
 
 ![Test Image 3](example3.jpg)
+
+## Author: 
+- Cesar Arcos-Gonzalez: cesar99ag@gmail.com
