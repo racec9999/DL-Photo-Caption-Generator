@@ -16,3 +16,10 @@ Deep Learning Photo Caption Generator Tensorflow 2.0
 
 ## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
+
+## Tools:
+- Python 3
+
+## License: 
+MIT License
+
