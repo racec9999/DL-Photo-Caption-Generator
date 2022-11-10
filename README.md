@@ -20,6 +20,7 @@ Deep Learning Photo Caption Generator Tensorflow 2.0
 ## Tools
 - Python 3
 - Tensorflow 2
+- Jupyter
 ## License
 MIT License
 
