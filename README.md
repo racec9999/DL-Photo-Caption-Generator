@@ -1,5 +1,5 @@
 # Deep Learning Photo Caption Generator
-Deep Learning Photo Caption Generator Tensorflow 2.0
+Deep Learning Photo Caption Generator With Tensorflow 2.0
 
 ## Results
 * dog is running through the grass
